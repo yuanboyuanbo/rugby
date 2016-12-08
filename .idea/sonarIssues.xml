@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/WebConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/rugby/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/rugby/DruidConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/rugby/WebConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/rugby/base/bean/BaseEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/rugby/base/interceptor/LoginInterceptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/rugby/controller/LoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/rugby/system/bean/DemoDate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/rugby/system/bean/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/rugby/system/controller/DemoData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/rugby/system/controller/IndexController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/rugby/system/controller/LoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/page/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/page/login.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/doc/postman/config.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/doc/sql/menu.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/doc/相关技术/分页默认值.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/Application.java">
+          <value>
+            <set>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWhW49RvUPP9ETen" />
+                <option name="line" value="29" />
+                <option name="message" value="Document this public method." />
+                <option name="ruleKey" value="squid:UndocumentedApi" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWhA49RvUPP9ETem" />
+                <option name="line" value="30" />
+                <option name="message" value="Close this &quot;ConfigurableApplicationContext&quot;." />
+                <option name="ruleKey" value="squid:S2095" />
+                <option name="severity" value="BLOCKER" />
+              </SonarIssue>
+            </set>
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/base/bean/AbstractEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/base/service/BaseServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/bonus/bean/SysUserBonus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/bonus/controller/UserBonusController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/bonus/service/UserBonusService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/bonus/service/impl/UserBonusServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/loan/controller/LoanController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/loan/service/LoanService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/loan/service/impl/LoanServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/bean/PaybackPlan.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/bean/PersonalIncomes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/bean/PersonalPaybackPlan.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/controller/InvestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/controller/OrderController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/controller/PaybackPlanController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/controller/PersonalPaybackPlanController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/dao/InvestRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/dao/OrderRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/dao/PaybackPlanRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/dao/PersonalIncomesRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/dao/PersonalPaybackPlanRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/service/InvestService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/service/OrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/service/PaybackPlanService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/service/PersonalIncomesService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/service/PersonalPaybackPlanService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/service/impl/InvestServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/service/impl/OrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/service/impl/PaybackPlanServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/service/impl/PersonalIncomesServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/project/service/impl/PersonalPaybackPlanServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/system/bean/TradingRecord.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/system/controller/TradingRecordController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/system/controller/vo/TradingRecordVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/system/dao/TradingRecordRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/system/service/TradingRecordService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/system/service/impl/TradingRecordServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/java/com/lbd/thirdparty/swld/service/SwldService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/main/resources/springboot.properties.all">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-core/src/test/java/com/lbd/service/TestSWLDService2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-manager/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-manager/src/main/java/com/lbd/project/bean/PaybackPlan.java">
+          <value>
+            <set>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp-49RvUPP9ETh1" />
+                <option name="line" value="44" />
+                <option name="message" value="Move this variable to comply with Java Code Conventions." />
+                <option name="ruleKey" value="squid:S1213" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp449RvUPP9EThn" />
+                <option name="line" value="29" />
+                <option name="message" value="Move this variable to comply with Java Code Conventions." />
+                <option name="ruleKey" value="squid:S1213" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp549RvUPP9ETho" />
+                <option name="line" value="30" />
+                <option name="message" value="Move this variable to comply with Java Code Conventions." />
+                <option name="ruleKey" value="squid:S1213" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp549RvUPP9EThp" />
+                <option name="line" value="31" />
+                <option name="message" value="Move this variable to comply with Java Code Conventions." />
+                <option name="ruleKey" value="squid:S1213" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp649RvUPP9EThr" />
+                <option name="line" value="33" />
+                <option name="message" value="Move this variable to comply with Java Code Conventions." />
+                <option name="ruleKey" value="squid:S1213" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp649RvUPP9EThs" />
+                <option name="line" value="34" />
+                <option name="message" value="Move this variable to comply with Java Code Conventions." />
+                <option name="ruleKey" value="squid:S1213" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp749RvUPP9ETht" />
+                <option name="line" value="35" />
+                <option name="message" value="Move this variable to comply with Java Code Conventions." />
+                <option name="ruleKey" value="squid:S1213" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp649RvUPP9EThq" />
+                <option name="line" value="32" />
+                <option name="message" value="Move this variable to comply with Java Code Conventions." />
+                <option name="ruleKey" value="squid:S1213" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp449RvUPP9EThm" />
+                <option name="message" value="1 duplicated blocks of code must be removed." />
+                <option name="ruleKey" value="common-java:DuplicatedBlocks" />
+                <option name="severity" value="MAJOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp949RvUPP9EThy" />
+                <option name="line" value="40" />
+                <option name="message" value="Move this variable to comply with Java Code Conventions." />
+                <option name="ruleKey" value="squid:S1213" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp949RvUPP9EThz" />
+                <option name="line" value="41" />
+                <option name="message" value="Move this variable to comply with Java Code Conventions." />
+                <option name="ruleKey" value="squid:S1213" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp949RvUPP9ETh0" />
+                <option name="line" value="43" />
+                <option name="message" value="Move this variable to comply with Java Code Conventions." />
+                <option name="ruleKey" value="squid:S1213" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp749RvUPP9EThv" />
+                <option name="line" value="37" />
+                <option name="message" value="Move this variable to comply with Java Code Conventions." />
+                <option name="ruleKey" value="squid:S1213" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp749RvUPP9EThu" />
+                <option name="line" value="36" />
+                <option name="message" value="Move this variable to comply with Java Code Conventions." />
+                <option name="ruleKey" value="squid:S1213" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp849RvUPP9EThw" />
+                <option name="line" value="38" />
+                <option name="message" value="Move this variable to comply with Java Code Conventions." />
+                <option name="ruleKey" value="squid:S1213" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp_49RvUPP9ETh4" />
+                <option name="line" value="22" />
+                <option name="message" value="Document this public constructor." />
+                <option name="ruleKey" value="squid:UndocumentedApi" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+              <SonarIssue>
+                <option name="isNew" value="false" />
+                <option name="key" value="AVhiSWp849RvUPP9EThx" />
+                <option name="line" value="39" />
+                <option name="message" value="Move this variable to comply with Java Code Conventions." />
+                <option name="ruleKey" value="squid:S1213" />
+                <option name="severity" value="MINOR" />
+              </SonarIssue>
+            </set>
+          </value>
+        </entry>
+        <entry key="E:/dev2/new_lbd/lbd-manager/src/main/webapp/page/project/paybackPlanList.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="github.com/djmpink/springboot-mybatis.git">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
